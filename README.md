@@ -12,5 +12,4 @@ Browser → Nginx (port 80) → Gunicorn → Flask (port 5000)
 - AWS EC2 (Ubuntu 24.04)
 - Systemd (service management)
 
-## Live
-http://54.205.93.132
+
